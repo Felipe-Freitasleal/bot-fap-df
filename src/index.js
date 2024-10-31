@@ -1,3 +1,3 @@
-import { parseCSVPainelProcedimentos } from "./parseCSVPainelProcedimentos.js";
+import { parseCSVPainelProcedimentos } from "./painelProcedimentos/parseCSVPainelProcedimentos.js";
 
 parseCSVPainelProcedimentos();
